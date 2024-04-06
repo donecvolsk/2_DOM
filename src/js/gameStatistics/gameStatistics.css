@@ -1,0 +1,16 @@
+.gameStatistics {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+
+.hit {
+    margin-right: 20px;
+    color: green;
+}
+
+.miss {
+    color: red;
+}
